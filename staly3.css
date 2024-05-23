@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     width: 980px;
     height: 100%;
     position: absolute;
@@ -33,7 +33,7 @@ body{
     
     }
     .CONTEUDO2{
-        background-color: rgb(57, 218, 35);
+        background-color: rgb(218, 35, 35);
         height: 250px;
         padding: 50px;
         color: #fff;
@@ -42,8 +42,18 @@ body{
         width: 550px;
         
         }
+
+        .CONTEUDO3{
+            background-color: rgb(218, 35, 35);
+            height: 250px;
+            padding: 50px;
+            color: #fff;
+            text-align: center;
+            margin-left: 10px;
+            width: 550px;
+        }
 .RODAPE{
-    background-color: rgb(255, 153, 0);
+    background-color: rgb(255, 0, 255);
     height: 100px;
     text-align: center;
     margin-top: 10px;
